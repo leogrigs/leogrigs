@@ -1,10 +1,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-grigorio-ferreira/) 
 
 ## About Me
+```javascript
   - Currently working on React projects
   - Passionate about Front-End development and creating great user experiences
   - Enthusiastic about self-development and financial literacy books
   - Expanding my skills by learning AWS and cloud technologies
+```
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leogrigs&theme=neon&hide_border=true)<br/>
 
