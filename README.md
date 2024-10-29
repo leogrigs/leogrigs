@@ -4,10 +4,9 @@
 ```javascript
   - Front-End Developer
   - 3 years of experience working with Angular
-  - Currently working on React projects
-  - Passionate about Front-End development and creating great user experiences
+  - Currently learning AWS and building projects in React
+  - Passionate about creating great user experiences
   - Enthusiastic about self-development and financial literacy books
-  - Expanding my skills by learning AWS and cloud technologies
 ```
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leogrigs&theme=neon&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=leogrigs&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
