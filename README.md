@@ -2,6 +2,8 @@
 
 ## About Me
 ```javascript
+  - Front-End Developer
+  - 3 years of experience working with Angular
   - Currently working on React projects
   - Passionate about Front-End development and creating great user experiences
   - Enthusiastic about self-development and financial literacy books
