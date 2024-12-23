@@ -11,7 +11,7 @@ Currently, I am expanding my expertise by:
 
 Additionally, I am deeply invested in continuous learning through self-development and financial literacy literature.
 
-<a href="https://www.credly.com/earner/earned/badge/08549e01-a715-4af4-9188-2f7cb18cf207">
+<a href="https://www.credly.com/badges/08549e01-a715-4af4-9188-2f7cb18cf207">
   <img src="https://miro.medium.com/v2/resize:fit:512/0*P7dmdm5OCZaMEPOG" width="64" />
 </a>
 
