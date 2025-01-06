@@ -1,6 +1,6 @@
 # Leonardo Grigorio Ferreira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-grigorio-ferreira/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:leo.grigorio16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat)](https://portfolio-leogrigs-projects.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-grigorio-ferreira/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:leo.grigorio16@gmail.com)
 
 ## About Me
 As a dedicated **Front-End Developer** with over **three years of experience** specializing in **Angular**, I am passionate about crafting intuitive and engaging user experiences. 
@@ -11,8 +11,9 @@ Currently, I am expanding my expertise by:
 
 Additionally, I am deeply invested in continuous learning through self-development and financial literacy literature.
 
-<a href="https://www.credly.com/badges/08549e01-a715-4af4-9188-2f7cb18cf207">
-  <img src="https://miro.medium.com/v2/resize:fit:512/0*P7dmdm5OCZaMEPOG" width="64" />
+[![AWS Badge](https://miro.medium.com/v2/resize:fit:64/0*P7dmdm5OCZaMEPOG)](https://www.credly.com/badges/08549e01-a715-4af4-9188-2f7cb18cf207)
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=964820">
+  <img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" width="64" />
 </a>
 
 ## Tech Stack
