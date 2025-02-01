@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat)](https://portfolio-leogrigs-projects.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-grigorio-ferreira/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:leo.grigorio16@gmail.com)
 
 ## About Me
-As a dedicated **Front-End Developer** with over **three years of experience** specializing in **Angular**, I am passionate about crafting intuitive and engaging user experiences. 
+As a dedicated **Software Developer** with over **4 years of experience** specializing in **Front-End**, I am passionate about crafting intuitive and engaging user experiences. 
 
 Currently, I am expanding my expertise by:
 - Developing projects in **React**
