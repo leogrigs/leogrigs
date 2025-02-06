@@ -12,8 +12,11 @@ Currently, I am expanding my expertise by:
 Additionally, I am deeply invested in continuous learning through self-development and financial literacy literature.
 
 [![AWS Badge](https://miro.medium.com/v2/resize:fit:64/0*P7dmdm5OCZaMEPOG)](https://www.credly.com/badges/08549e01-a715-4af4-9188-2f7cb18cf207)
-<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=964820">
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=964820" target="_blank" rel="noopener noreferrer">
   <img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" width="64" />
+</a>
+<a href="[YOUR_ANGULAR_CERTIFICATION_LINK](https://www.hackerrank.com/certificates/a1e3ef3329f1)" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="64" alt="Angular Certification Badge" />
 </a>
 
 ## Tech Stack
